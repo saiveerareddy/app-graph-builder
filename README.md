@@ -38,11 +38,12 @@ cd app-graph-builder
 
 # Install dependencies
 npm install
+npm install @radix-ui/react-slider
 
 # Start development server
 npm run dev
-npm install @radix-ui/react-slider
 
  # Then you get link in terminal
 http://localhost:5173 
+
 
