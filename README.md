@@ -1,15 +1,4 @@
 # README.md
-**Installation Steps :**
-# Clone the repository
-
-git clone https://github.com/saiveerareddy/app-graph-builder.git
-cd app-graph-builder
-
-# Install dependencies
-npm install
-npm install @radix-ui/react-slider
-# Start development server
-npm run dev
 
 # App Graph Builder
 
@@ -39,3 +28,20 @@ A React-based application for visualizing and managing service graphs, built wit
 ### Prerequisites
 
 - Node.js 18+ and npm/yarn/pnpm
+
+### Installation
+
+```bash
+# Clone the repository
+git clone <repository-url>
+cd app-graph-builder
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+npm install @radix-ui/react-slider
+
+ # Then you get link in terminal
+http://localhost:5173 
