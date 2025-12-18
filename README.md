@@ -33,7 +33,7 @@ A React-based application for visualizing and managing service graphs, built wit
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/saiveerareddy/app-graph-builder.git
 cd app-graph-builder
 
 # Install dependencies
@@ -45,3 +45,4 @@ npm install @radix-ui/react-slider
 
  # Then you get link in terminal
 http://localhost:5173 
+
